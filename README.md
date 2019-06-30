@@ -1,2 +1,2 @@
 # Hackerrank
-All the code assisgnmenets
+All the code assignmnts in SQL and Python
